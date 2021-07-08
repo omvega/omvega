@@ -6,6 +6,27 @@
 
 ### Languages and Tools 🛠 
 
+<p align="center">
+    <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask" alt="Flask" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+    <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
+</p>
+
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
@@ -33,6 +54,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=omvega&show_icons=true&theme=synthwave" alt="omvega :: Profile Stats" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omvega&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvega&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omvega&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
