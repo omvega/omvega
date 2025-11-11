@@ -9,7 +9,7 @@
 <p align="center">
     <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
     <img src="https://img.shields.io/badge/-Django-0C3C26?style=flat-square&logo=django&logoColor=ffffff" alt="Django" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask" alt="Flask" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL" />
